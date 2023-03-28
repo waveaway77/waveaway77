@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **waveaway77/waveaway77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Intro.
 JIY의 깃 레포지토리입니다.
 Java Back-end 개발자입니다.
 
-Contact.
-Email. waveaway77@gmail.com
-Blog. tistory.pencilcase.com
+<br>Email. waveaway77@gmail.com
+<br>Blog. tistory.pencilcase.com
