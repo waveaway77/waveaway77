@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+JIY의 깃 레포지토리입니다.
+Java Back-end 개발자입니다.
+
+Contact.
+Email. waveaway77@gmail.com
+Blog. tistory.pencilcase.com
